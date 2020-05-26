@@ -86,6 +86,7 @@ def main():
     doran_ring = item("도란의 반지", 0, 15, 0, 0, 0, 0, 60, 450)
 
 
+
     """ YOUR TEST """
     main_sword = long_sword + doran_sword + long_sword
     trinity = doran_ring + doran_ring + doran_sword
